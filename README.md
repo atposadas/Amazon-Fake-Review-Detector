@@ -1,6 +1,6 @@
 # Amazon-Fake-Review-Detector
 
-One of the submissiosn for the 2023 Data Hack at UT Austin.
+A submission for the 2023 Data Hack at UT Austin.
 
 An algorithm that attempts to distinguish fake reviews (be it AI or human generated) in Amazon products using the following features:
 
